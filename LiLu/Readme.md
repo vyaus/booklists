@@ -1,5 +1,13 @@
 # Li Lu’s Recommended Book List
 
+ - [I. Science, Philosophy, Evolution, History of Human Civilization, Human History](#i-science-philosophy-evolution-history-of-human-civilization-human-history)
+ - [II. Chinese Civilization, History and Culture](#ii-chinese-civilization-history-and-culture)
+ - [III. China's Contemporary Economic Reform and Development](#iii-chinas-contemporary-economic-reform-and-development)
+ - [IV. Value Investing, Finance and Capitalism](#iv-value-investing-finance-and-capitalism)
+ - [V. History of Western Civilization](#v-history-of-western-civilization)
+ - [VI. Biography and Others](#vi-biography-and-others)
+
+
 ## I. Science, Philosophy, Evolution, History of Human Civilization, Human History
 
 SN|Author|Title|Publisher|Published
