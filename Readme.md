@@ -14,3 +14,8 @@
 ## Recommend by University
 
  - Cambridge: [Mathematical Reading List](Cambridge/Mathematical_Reading_List.md)
+
+## Prize Winners
+
+ - Pulitzer Prize for [General Nonfiction](Prize-Winners/Pulitzer-Prize/General-Nonfiction.md)
+ - Euler Book Prize for [Mathematics](Prize-Winners/Euler-Book-Prize.md)
