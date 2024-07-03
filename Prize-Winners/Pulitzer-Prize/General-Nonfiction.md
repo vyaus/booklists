@@ -2,10 +2,14 @@
 
 [General Nonfiction](https://www.pulitzer.org/prize-winners-by-category/223): For a distinguished and appropriately documented book of nonfiction by an American author that is not eligible for consideration in any other category.
 
-## Winner
+ - [Winners](#winners)
+ - [Finalists](#finalists)
+
+
+## Winners
 
 Year|Title|Author|Publisher
--:|-|:-|:-|-
+:-:|:-|:-|:-
 2024|A Day in the Life of Abed Salama: Anatomy of a Jerusalem Tragedy|Nathan Thrall|Metropolitan Books
 2023|His Name Is George Floyd: One Man’s Life and the Struggle for Racial Justice|Robert Samuels and Toluse Olorunnipa|Viking
 2022|Invisible Child: Poverty, Survival & Hope in an American City|Andrea Elliott|Random House
@@ -75,10 +79,10 @@ Year|Title|Author|Publisher
 1962|The Making of the President 1960|Theodore H. White|Atheneum
 
 
-## Finanlist
+## Finalists
 
 Year|Title|Author|Publisher
--:|-|:-|:-|-
+:-:|:-|:-|:-
 2024|Cobalt Red: How the Blood of the Congo Powers Our Lives|Siddharth Kara|St. Martin’s Press
 -|Fire Weather: A True Story from a Hotter World|John Vaillant|Knopf
 2023|Kingdom of Characters: The Language Revolution That Made China Modern|Jing Tsu|Riverhead Books
