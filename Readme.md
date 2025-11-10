@@ -1,6 +1,7 @@
 # Booklists
 
  - 李录: [推荐书单](李录/Readme.md)
+ - 上海财经大学出版社: [汇添富基金·世界资本经典译丛](99fund/Readme.md)
  - Good Books: [Most Recommended Non-Fiction Books](Good-Books/Non-Fiction.md)
  - Good Books: [Most Recommended Fiction Books](Good-Books/Fiction.md)
  - Good Books: [All Recommended Books](Good-Books/All-books.md)
